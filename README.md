@@ -19,3 +19,4 @@
 - contextApi
 
 - ## 개발 일지
+https://velog.io/@wgh19/크롬-공룡게임-만들기
