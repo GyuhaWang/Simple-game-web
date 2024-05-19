@@ -14,3 +14,8 @@
 
   총알을 발사하여 최대한 많은 적을 없애세요!!
   적과 부딛히면 Game Over
+- ## 사용 기술
+- requestAnimationFrame
+- contextApi
+
+- ## 개발 일지
