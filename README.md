@@ -1,6 +1,7 @@
 ## Next Js 로 만드는 간단한 Game Web
 ![image](https://github.com/GyuhaWang/Simple-game-web/assets/86870218/bc481c6a-de8d-44df-a8b3-2c5268c3251b)
 
+<a href="https://simple-game-web.vercel.app/"> 사이트 주소</a>
 ## 개발 목표
 
 - 기간 : 23.05.08 ~ 23.05.15 (퇴근 후 꼭 조금씩 만들자)
